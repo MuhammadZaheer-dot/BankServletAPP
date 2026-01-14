@@ -1,0 +1,9 @@
+com\mycompany\LoginServlet.class
+com\mycompany\UpdateServlet.class
+com\mycompany\signupproject\JakartaRestConfiguration.class
+com\mycompany\signupproject\resources\JakartaEE10Resource.class
+com\mycompany\ResetServlet.class
+com\mycompany\SuccessServlet.class
+com\mycompany\DBConnection.class
+com\mycompany\SignupServlet.class
+com\mycompany\DeleteServlet.class
